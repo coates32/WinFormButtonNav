@@ -1,0 +1,10 @@
+J:\Programming Projects\WinFormButtonNav\WinFormButtonNav\obj\Debug\WinFormButtonNav.csprojAssemblyReference.cache
+J:\Programming Projects\WinFormButtonNav\WinFormButtonNav\obj\Debug\WinFormButtonNav.Main.resources
+J:\Programming Projects\WinFormButtonNav\WinFormButtonNav\obj\Debug\WinFormButtonNav.Properties.Resources.resources
+J:\Programming Projects\WinFormButtonNav\WinFormButtonNav\obj\Debug\WinFormButtonNav.csproj.GenerateResource.cache
+J:\Programming Projects\WinFormButtonNav\WinFormButtonNav\obj\Debug\WinFormButtonNav.csproj.CoreCompileInputs.cache
+J:\Programming Projects\WinFormButtonNav\WinFormButtonNav\bin\Debug\WinFormButtonNav.exe.config
+J:\Programming Projects\WinFormButtonNav\WinFormButtonNav\bin\Debug\WinFormButtonNav.exe
+J:\Programming Projects\WinFormButtonNav\WinFormButtonNav\bin\Debug\WinFormButtonNav.pdb
+J:\Programming Projects\WinFormButtonNav\WinFormButtonNav\obj\Debug\WinFormButtonNav.exe
+J:\Programming Projects\WinFormButtonNav\WinFormButtonNav\obj\Debug\WinFormButtonNav.pdb
